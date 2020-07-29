@@ -2,13 +2,13 @@
 
 ![](/flat-logo-guenka.png) 
 
-### Uma iniciativa da [Guenka Software](http://www.guenka.com.br/).
+## Uma Iniciativa [Guenka Software](http://www.guenka.com.br/).
 
 * Este treinamento só foi possível através do apoio e colaboração dos nossos líderes [Emmanuel Galo](https://www.linkedin.com/in/emmanuel-galo-442a35b3/?originalSubdomain=br) e [Jandira Guenka](https://www.linkedin.com/in/jandira-g-palma-29192b8/).
 * Eu [Lucas](https://www.linkedin.com/in/lucas-joaquim-81880a159/), serei seu mentor e guia nesta jornada.
 * O foco deste treinamento não é somente avaliar as suas habilidades em tecnologias e ferramentas, mas também avaliar a sua capacidade de aprendizado e colaboração com outras pessoas.
 
-### Equipe e Cronograma
+### Equipe e Cronograma:
 
 * A equipe é composta por 6 membros:
     * 1 Gerente de Projeto e Líder Técnico.
@@ -24,7 +24,7 @@
 * Todos os membros deverão estar online ao mesmo tempo ao menos 1 hora por dia.
 * Ao todo serão 240 horas de força de trabalho da equipe.
 
-### Fluxo de trabalho e ferramentas:
+### Fluxo de Trabalho e Ferramentas:
 
 * Reuniões - [Meet](http://meet.new/)
     
@@ -49,7 +49,7 @@
 * Políticas de Versionamento:
     * Todas as mensagens de commits devem obrigatoriamente está no modelo do [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), para uma maior rastreabilidade das mudanças.
 
-### Habilidades e competências analisadas
+### Habilidades e Competências Analisadas:
 
 * Resolução de problemas.
 * Colaboração.
@@ -63,7 +63,7 @@
 * Banco de dados.
 * Básico de redes.
 
-### Tecnologias e ferramentas:
+### Tecnologias e Ferramentas:
 
 * Node
 * MongoDB
