@@ -1,8 +1,6 @@
-## Recruta Guenka
+## Uma Iniciativa [Guenka Software](http://www.guenka.com.br/)
 
 ![](/flat-logo-guenka.png) 
-
-## Uma Iniciativa [Guenka Software](http://www.guenka.com.br/)
 
 * Este treinamento só foi possível através do apoio e colaboração dos nossos líderes [Emmanuel Galo](https://www.linkedin.com/in/emmanuel-galo-442a35b3/?originalSubdomain=br) e [Jandira Guenka](https://www.linkedin.com/in/jandira-g-palma-29192b8/).
 * Eu [Lucas](https://www.linkedin.com/in/lucas-joaquim-81880a159/), serei seu mentor e guia nesta jornada.
