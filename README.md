@@ -73,7 +73,7 @@
 * Docker
 * Unix
 
-### Desafio:
+### Atividades:
 
 * Definir backlog
 * Planejamento de tarefas
