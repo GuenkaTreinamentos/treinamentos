@@ -22,6 +22,12 @@
 * Todos os membros deverão estar online ao mesmo tempo ao menos 1 hora por dia.
 * Ao todo serão 240 horas de força de trabalho da equipe.
 
+
+| Horário  | Segunda | Terça | Quarta | Quinta | Sexta |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 14:00 - 18:00 | Lucas, Luiz, Pizol, Bobra, Pedro| Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro |
+| 16:00 - 20:00 | Renan | Renan | Renan | Renan | Renan |
+
 ### Fluxo de Trabalho e Ferramentas:
 
 * Reuniões - [Meet](http://meet.new/)
