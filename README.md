@@ -13,7 +13,7 @@
     
     * Todo início de Sprint teremos uma reunião para alinhamento da equipe e atribuição de tarefas.
     * Todo final de Sprint teremos uma reunião de balanço, para avaliarmos as tarefas concluídas ou que apresentaram problemas e propor formas de corrigir para próximas Sprints.
-    * As demais reuniões que sejam necessárias serão reuniões com escopos bem definidos, curtas e contextualizada.
+    * As demais reuniões que sejam necessárias serão reuniões com escopos bem definidos, curtas e contextualizadas.
 
 * Chat - [treinamento-guenka](https://gitter.im/treinamento-guenka/community)
 
