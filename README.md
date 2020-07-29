@@ -6,6 +6,10 @@
 * Eu [Lucas](https://www.linkedin.com/in/lucas-joaquim-81880a159/), serei seu mentor e guia nesta jornada.
 * O foco deste treinamento não é somente avaliar as suas habilidades em tecnologias e ferramentas, mas também avaliar a sua capacidade de aprendizado e colaboração com outras pessoas.
 
+## Mesa Redonda:
+
+* [João Bracaioli](https://www.linkedin.com/in/joaobracaioli/) - Desenvolvedor Sênior no Ifood. 
+
 ### Equipe e Cronograma:
 
 * A equipe é composta por 6 membros:
