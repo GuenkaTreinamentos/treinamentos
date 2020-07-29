@@ -42,6 +42,7 @@
         * Uma issue de planejamento - o responsável deverá abrir uma issue para descrever como a tarefa deverá ser implementada.
         * Uma issue de implementação - responsável por implementar a tarefa deverá abrir uma issue e registrar a branch e o link para o pull request. 
         * Uma issue de validação - o responsável pela validação deverá abrir uma issue para revisão de código, integração de conjunto de mudanças e deploy.
+     * Estas issues deverão ser abertas neste repositório e rastreadas nos tarefas no Trello do treinamento.
 
 * IDE - [VSCode](https://code.visualstudio.com/)
 
