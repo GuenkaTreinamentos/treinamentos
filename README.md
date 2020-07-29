@@ -21,6 +21,11 @@
     * Este Chat é destinado a conversas efêmeras: dúvidas sobre código, dicas ou conversas casuais. Resumindo, coisas que não precisam ser rastreadas.
 
 * Backlog - [Trello](https://trello.com/b/qtJ2Nol2/treinamento)
+    * Usaremos a ferramenta Trello para rastrear todas as tarefas que deverão ser realizadas e rastrear os seus status e responsáveis.
+    * Todas as tarefas obrigatoriamente deverão ser compostas por:
+        * Uma issue de planejamento - o responsável deverá abrir uma issue para descrever como a tarefa deverá ser implementada.
+        * Uma issue de implementação - responsável por implementar a tarefa deverá abrir uma issue e registrar a branch e o link para o pull request. 
+        * Uma issue de validação - o responsável pela validação deverá abrir uma issue para revisão de código, integração de conjunto de mudanças e deploy.
 
 * IDE - [VSCode](https://code.visualstudio.com/)
 
