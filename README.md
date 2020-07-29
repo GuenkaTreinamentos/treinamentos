@@ -14,9 +14,9 @@
     * 5 Desenvolvedores:
       * [Luiz Arruda](https://github.com/arrudaluiz).
       * [Gabriela Pizol](https://github.com/gabidepizol).
-      * [Gabi]().
-      * [Pedro]().
-      * [Renan]().
+      * [Gabriela Bobra](https://github.com/gabibobra).
+      * [Pedro Tashima](https://github.com/Tashima42).
+      * [Renan Mota](https://github.com/renandmc).
 * O treinamento será desenvolvido durante duas semanas.
 * Cada membro irá se dedicar 4 horas por dia ao treinamento.
 * Todos os membros deverão estar online ao mesmo tempo ao menos 1 hora por dia.
