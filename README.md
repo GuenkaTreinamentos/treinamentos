@@ -33,8 +33,8 @@ Você pode ajustar seus horários, mas lembre de atualizar esta tabela com atenc
 
 | Horário  | Segunda | Terça | Quarta | Quinta | Sexta |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 14:00 - 18:00 | Lucas, Luiz, Pizol, Bobra, Pedro| Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro |
-| 16:00 - 20:00 | Renan | Renan | Renan | Renan | Renan |
+| 14:00 - 18:00 | Lucas, Luiz, Pizol, Bobra| Lucas, Luiz, Pizol, Bobra | Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro |
+| 16:00 - 20:00 | Renan, Pedro | Renan, Pedro | Renan | Renan | Renan |
 
 ### Fluxo de Trabalho e Ferramentas:
 
