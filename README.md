@@ -23,6 +23,10 @@
 * Ao todo serão 240 horas de força de trabalho da equipe.
 
 
+#### Cronograma:
+
+Você pode ajustar seus horários, mas lembre de atualizar esta tabela com atencedência. E de está trabalhando no mesmo horário que os outros pelo menos uma hora por dia, como mencionado acima.
+
 | Horário  | Segunda | Terça | Quarta | Quinta | Sexta |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 14:00 - 18:00 | Lucas, Luiz, Pizol, Bobra, Pedro| Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro | Lucas, Luiz, Pizol, Bobra, Pedro |
