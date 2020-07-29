@@ -22,7 +22,7 @@
 * O treinamento será desenvolvido durante duas semanas.
 * Cada membro irá se dedicar 4 horas por dia ao treinamento.
 * Todos os membros deverão estar online ao mesmo tempo ao menos 1 hora por dia.
-* Ao todo serão 200 horas de força de trabalho da equipe.
+* Ao todo serão 240 horas de força de trabalho da equipe.
 
 ### Fluxo de trabalho e ferramentas:
 
