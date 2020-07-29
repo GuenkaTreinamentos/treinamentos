@@ -73,13 +73,14 @@ Você pode ajustar seus horários, mas lembre de atualizar esta tabela com atenc
 
 ### Tecnologias e Ferramentas:
 
-* Node
-* MongoDB
-* Vue/Vuex
-* HTML/CSS/SCSS
-* Git
-* Docker
-* Unix
+* Node.
+* MongoDB.
+* Vue/Vuex.
+* HTML/CSS/SCSS.
+* Git.
+* Docker.
+* Unix.
+* Figma.
 
 ### Atividades:
 
