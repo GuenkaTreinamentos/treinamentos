@@ -5,10 +5,7 @@
 ### Uma iniciativa da [Guenka Software](http://www.guenka.com.br/).
 
 * Este projeto só foi possível através do apoio e colaboração dos nossos líderes [Emmanuel Galo](https://www.linkedin.com/in/emmanuel-galo-442a35b3/?originalSubdomain=br) e [Jandira Guenka](https://www.linkedin.com/in/jandira-g-palma-29192b8/).
-
-
-O foco deste treinamento não é somente avaliar as suas habilidades em tecnologias e ferramentas,
-mas também avaliar a sua capacidade de aprendizado e colaboração com outras pessoas.
+* O foco deste treinamento não é somente avaliar as suas habilidades em tecnologias e ferramentas, mas também avaliar a sua capacidade de aprendizado e colaboração com outras pessoas.
 
 ### Fluxo de trabalho e ferramentas:
 
