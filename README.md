@@ -12,7 +12,7 @@
 
 * A equipe é composta por 6 membros:
     * 1 Gerente de Projeto e Líder Técnico.
-      * [](@lusatiro)
+      * [Lucas Sátiro](https://github.com/lusatiro)
     * 5 Desenvolvedores:
       * [Luiz Arruda](https://github.com/arrudaluiz).
       * [Gabriela Pizol](https://github.com/gabidepizol).
