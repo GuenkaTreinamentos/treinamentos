@@ -8,6 +8,13 @@
 * Eu [Lucas](https://www.linkedin.com/in/lucas-joaquim-81880a159/), serei seu mentor e guia nesta jornada.
 * O foco deste treinamento não é somente avaliar as suas habilidades em tecnologias e ferramentas, mas também avaliar a sua capacidade de aprendizado e colaboração com outras pessoas.
 
+### Equipe e Cronograma
+
+* O treinamento será desenvolvido durante duas semanas.
+* Cada membro irá se dedicar 4 horas por dia ao treinamento.
+* Todos os membros deverão estar online ao mesmo tempo ao menos 1 hora por dia.
+* Ao todo serão 200 horas de força de trabalho da equipe.
+
 ### Fluxo de trabalho e ferramentas:
 
 * Reuniões - [Meet](http://meet.new/)
