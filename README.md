@@ -10,6 +10,9 @@
 
 ### Equipe e Cronograma
 
+* A equipe é composta por 6 membros:
+    * 1 Gerente de Projeto e Líder Técnico.
+    * 5 Desenvolvedores.
 * O treinamento será desenvolvido durante duas semanas.
 * Cada membro irá se dedicar 4 horas por dia ao treinamento.
 * Todos os membros deverão estar online ao mesmo tempo ao menos 1 hora por dia.
