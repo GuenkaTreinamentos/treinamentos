@@ -12,13 +12,13 @@
 
 * A equipe é composta por 6 membros:
     * 1 Gerente de Projeto e Líder Técnico.
-      * @lusatiro
+      * [](@lusatiro)
     * 5 Desenvolvedores:
-      * @arrudaluiz
-      * @gabidepizol
-      * Gabi. //TODO.
-      * Pedro. // TODO.
-      * Renan // TODO.
+      * [Luiz Arruda](https://github.com/arrudaluiz).
+      * [Gabriela Pizol](https://github.com/gabidepizol).
+      * [Gabi]().
+      * [Pedro]().
+      * [Renan]().
 * O treinamento será desenvolvido durante duas semanas.
 * Cada membro irá se dedicar 4 horas por dia ao treinamento.
 * Todos os membros deverão estar online ao mesmo tempo ao menos 1 hora por dia.
