@@ -12,10 +12,10 @@
 
 * A equipe é composta por 6 membros:
     * 1 Gerente de Projeto e Líder Técnico.
-      * @lusatiro.
+      * @lusatiro
     * 5 Desenvolvedores:
-      * @arrudaluiz.
-      * @gabidepizol.
+      * @arrudaluiz
+      * @gabidepizol
       * Gabi. //TODO.
       * Pedro. // TODO.
       * Renan // TODO.
