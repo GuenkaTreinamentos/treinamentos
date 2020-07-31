@@ -60,7 +60,7 @@ Você pode ajustar seus horários, mas lembre de atualizar esta tabela com atenc
 
 * Políticas de Versionamento:
     * Todas as mensagens de commits devem obrigatoriamente está no modelo do [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), para uma maior rastreabilidade das mudanças.
-    * Toda tarefa ligada a implementação, seja ela de desenvolvimento de uma funcionalidade ou correção bug, deverá abrir uma nova a partir da master atualizada. Para isso você precisará fazer rebase ou reset na branch master e então criar uma nova branch. Após a finalização da tarefa, deverá ser feito um pull request para que ela seja revisada, corrigida se necessário e mergeada.
+    * Toda tarefa ligada a implementação, seja ela de desenvolvimento de uma funcionalidade ou correção de bug, deverá abrir uma nova a partir da master atualizada. Para isso você precisará fazer rebase ou reset na branch master e então criar uma nova branch. Após a finalização da tarefa, deverá ser feito um pull request para que ela seja revisada, corrigida se necessário e mergeada.
 
 ### Habilidades e Competências Analisadas:
 
