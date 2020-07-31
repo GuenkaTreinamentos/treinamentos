@@ -85,6 +85,7 @@ Você pode ajustar seus horários, mas lembre de atualizar esta tabela com atenc
 * Docker.
 * Unix.
 * Figma.
+* Yarn
 
 ### Atividades:
 
