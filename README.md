@@ -87,6 +87,7 @@ Você pode ajustar seus horários, mas lembre de atualizar esta tabela com atenc
 * Unix.
 * Figma.
 * Yarn
+* Jest
 
 ### Atividades:
 
