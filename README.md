@@ -95,7 +95,11 @@ Você pode ajustar seus horários, mas lembre de atualizar esta tabela com atenc
     * Integrar API com frontend.
     * Implementar comunicação com banco de dados.
     * Desenhar e integrar componentes Vue.
-
+* Validação
+   * Revisão de código
+   * Debugging
+   * Teste de conformidade
+   * Integração e deploy
 
 
 
