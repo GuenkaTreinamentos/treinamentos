@@ -59,7 +59,7 @@ Você pode ajustar seus horários, mas lembre de atualizar esta tabela com atenc
 * IDE - [VSCode](https://code.visualstudio.com/)
 
 * Políticas de Versionamento:
-    * Todas as mensagens de commits devem obrigatoriamente está no modelo do [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), para uma maior rastreabilidade das mudanças.
+    * Todas as mensagens de commits devem obrigatoriamente está no modelo do [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), para uma maior rastreabilidade das mudanças. Você pode usar algumas ferramentas para ajudar no processo, como o [commitizen](https://github.com/commitizen/cz-cli), mas a instalação deve ser global para ficar apenas no seu ambiente.
     * Toda tarefa ligada a implementação, seja ela de desenvolvimento de uma funcionalidade ou correção de bug, deverá abrir uma nova branch a partir da master atualizada. Para isso você precisará fazer `rebase` ou `reset` na branch master e então criar uma nova branch. Após a finalização da tarefa, deverá ser feito um pull request para que ela seja revisada, corrigida se necessário e mergeada. Como estaremos num ambiente de CI/CD não teremos uma branch develop. A única diferença no nosso workflow em relação a abordagem `master-develop` é que toda mudança mergeada na master irá direto para produção. Então neste contexto não existe um ambiente de staging.
 
 ### Habilidades e Competências Analisadas:
